@@ -1,3 +1,4 @@
- # Hello I'm a 3rd year Software Systems Engineering student at the University Of Regina
+ # Hello I'm a 3rd year Software Systems Engineering student at the University Of Regina, enjoy my
+  # some of works
   # Check my webpage http://www.webdev.cs.uregina.ca/~amk427/
   # Check my Collaborative note Application http://www.webdev.cs.uregina.ca/~amk427/assignment/
