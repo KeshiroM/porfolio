@@ -6,7 +6,7 @@
  December 2022- Created a music suggestion web application that gives users custom music suggestions based on artists they previously liked or disliked;
   https://github.com/KeshiroM/ENSE374DATA
   
-  December 2022- Created and progrmmed a fully functioning game of battleships using C on a hardware microcontroller board. 
+  December 2022- Created and progrmmed a fully functioning game of battleships using C on a hardware microcontroller board; https://github.com/KeshiroM/porfolio/blob/Portfolio271/Battleship.pdf
   
   December 2022- Progrmamed an FPGA (Field Programmable Gate Array) chip with the ability to display every month and the number of days in that month. 
   
