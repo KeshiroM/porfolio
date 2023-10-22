@@ -1,4 +1,4 @@
- # Hello I'm a 3rd year Software Systems Engineering student at the University Of Regina with a widely vast knowledge base. Enjoy some of projects
+ # Hello I'm a 4th year Software Systems Engineering student at the University Of Regina with a widely vast knowledge base. Enjoy some of projects
   April 2022-Restructure of Regina Food banks ordering sysytem using a web application software: https://github.com/KevinChiHuang/Apple
  
  April 2022- Collaborative note Application: http://www.webdev.cs.uregina.ca/~amk427/assignment/
