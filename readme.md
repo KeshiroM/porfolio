@@ -28,7 +28,7 @@ April 2022- Collaborative note Application:  <a href = "http://www.webdev.cs.ure
  
 
   
-  Check out my personal wepbage for my web development class  <a href = " http://www.webdev.cs.uregina.ca/~amk427/"> HERE </a>  
+  Check out my personal wepbage for my web development class  <a href = "http://www.webdev.cs.uregina.ca/~amk427/"> HERE </a>  
   
   
   
