@@ -6,7 +6,9 @@
  - Independetly built an SDG mobile application using React-native with multiple games and activities. <a href ="https://github.com/KeshiroM/Tvarus"> HERE </a> 
  
  - I built an Elevator controller on a microcontroller using CLI, USART and RTOS(Real- Time Operating system) <a href ="https://github.com/KeshiroM/porfolio/blob/Portfolio271/projects/RTOS.pdf"> HERE </a> 
- - I create mutliple network level 1 and level 2 simultations using mininet, wireshark, UDP, TCP, TLS,SCP, sockets, threading and many others.<a href= "https://github.com/KeshiroM/porfolio/blob/Portfolio271/projects/NETW.pdf"> EXAMPLE </a> 
+ - I create mutliple network level 1 and level 2 simultations using mininet, wireshark, UDP, TCP, TLS,SCP, sockets, threading and many others.<a href= "https://github.com/KeshiroM/porfolio/blob/Portfolio271/projects/NETW.pdf"> EXAMPLE </a>
+
+<p></p>
  SUMMER 2023- Verification and Validation testing for howitzer firing simulator using Java. explanation: <a href ="https://github.com/KeshiroM/porfolio/blob/Portfolio271/projects/ENSE375%20PROJ.pdf"> HERE </a> github: <a href ="https://github.com/khavrks/ENSE---_PROJECT/tree/main/src"> HERE </a> 
  
 - USING LAMP stack I built a fully functioning web application that lets users subscribe to movies and keep track of subscriptions including features extra features like email verification. All that was built on a physical server which I independently built and maintained for 3 months. QUICK EXPLANATION : <a href ="https://github.com/KeshiroM/porfolio/blob/Portfolio271/projects/moviedb.pdf"> HERE </a>  
