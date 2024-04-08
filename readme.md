@@ -1,7 +1,7 @@
  # Hello I'm a 4th year Software Systems Engineering student at the University Of Regina with a widely vast knowledge base. Enjoy some of projects
  2024 </br>
  I have a project in game devlopment using C# and Unity <a href ="https://github.com/M-Alharbi/Fear-Woods"> HERE </a> </br>
- I am currently in a team that is developing a pet disease detector using ML/AI techniques as our capstone project. <a href ="https://github.com/HasaanToor/FurScan"> HERE </a> 
+ My team and I built and deployed a pet disease detector using ML/AI techniques as our capstone project. <a href ="https://github.com/HasaanToor/FurScan"> HERE </a> 
  <p> </p>
  FALL 2023
  I indpendently built a fully functioning sentiment analysis reporter. Using multtiple machine leanrinng techniques and models including Logistic Regression, Naive bayes and BERT. <a href ="https://github.com/KeshiroM/porfolio/blob/Portfolio271/projects/sensitivitext.pdf"> HERE </a>  
