@@ -1,5 +1,6 @@
- # Hello I'm a 4th year Software Systems Engineering student at the University Of Regina with a widely vast knowledge base. Enjoy some of projects
+ # Hello I'm a Software Systems Engineer with an accredited engineering degree from the University Of Regina with a widely vast knowledge base. Enjoy some of projects
  2024 </br>
+ Deployed website partenrship between University of Regina and the city of Regina <a href= "https://www.uregina.ca/regina-research-alliance/index.html"> HERE </a>
  I have a project in game devlopment using C# and Unity <a href ="https://github.com/M-Alharbi/Fear-Woods"> HERE </a> </br>
  My team and I built and deployed a pet disease detector using ML/AI techniques as our capstone project. <a href ="https://github.com/HasaanToor/FurScan"> HERE </a> 
  <p> </p>
