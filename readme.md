@@ -1,6 +1,6 @@
  # Hello I'm a Software Systems Engineer with an accredited engineering degree from the University Of Regina with a widely vast knowledge base. Enjoy some of my projects
   # 2025 - 26 </br>
-   Solely Built, deployed and  manage a socket based application  <a href= "https://play.google.com/store/apps/details?id=com.deadnwounded.quadguess"> HERE </a> and  co-created a fully functioning multifaceted feature rich social media application <a href= "https://apps.apple.com/us/app/haven-for-women/id6775724802"> HERE </a> </br>
+   Solely Built, deployed and  manage a socket based application on google play store <a href= "https://play.google.com/store/apps/details?id=com.deadnwounded.quadguess"> HERE </a> and  co-created a fully functioning multifaceted feature rich social media application on the App store <a href= "https://apps.apple.com/us/app/haven-for-women/id6775724802"> HERE </a> </br>
 # 2024 </br>
  Built, deployed and managed the entire research section of the Unviversity of Regina Website <a href= "https://www.uregina.ca/research/index.html"> HERE </a> and <a href= "https://www.uregina.ca/ur-research/index.html"> HERE </a> </br>
  Deployed website partenrship between University of Regina and the city of Regina <a href= "https://www.uregina.ca/regina-research-alliance/index.html"> HERE </a> </br>
